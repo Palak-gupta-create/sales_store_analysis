@@ -69,4 +69,3 @@ The main goal of this project is to convert raw sales data into meaningful insig
 
 ## 🙌 Author
 Palak Gupta
-Data Analyst
